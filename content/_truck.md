@@ -1,8 +1,6 @@
 ---
 title: "МІЖНАРОДНІ АВТОМОБІЛЬНІ ПЕРЕВЕЗЕННЯ"
 description: "Sidebar on the right, content on the left."
-menu: main
-weight: 29
 image: images/truck.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]

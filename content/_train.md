@@ -1,8 +1,6 @@
 ---
 title: "МІЖНАРОДНІ ЗАЛІЗНИЧНІ ПЕРЕВЕЗЕННЯ"
 description: "Sidebar on the right, content on the left."
-menu: main
-weight: 28
 image: images/train.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
