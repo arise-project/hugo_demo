@@ -1,7 +1,7 @@
 ---
 title: Компания
 menu: main
-weight: 10
+weight: 38
 ---
 
 # ПРО КОМПАНІЮ
