@@ -3,12 +3,12 @@
     weight = 27
 [[main]]
     parent = "Транспорт"
-    name = "1МІЖНАРОДНІ ЗАЛІЗНИЧНІ ПЕРЕВЕЗЕННЯ"
+    name = "ЗАЛІЗНИЧНІ ПЕРЕВЕЗЕННЯ"
     weight = 28
     url = "/_train"
 [[main]]
     parent = "Транспорт"
-    name = "МІЖНАРОДНІ АВТОМОБІЛЬНІ ПЕРЕВЕЗЕННЯ"
+    name = "АВТОМОБІЛЬНІ ПЕРЕВЕЗЕННЯ"
     weight = 29
     url = "/_truck"
 
@@ -19,14 +19,17 @@
     parent = "Услуги"
     name = "Таможенное оформление"
     weight = 31
+    url = "/"
 [[main]]
     parent = "Услуги"
     name = "Складская логистика"
     weight = 32
+    url = "/"
 [[main]]
     parent = "Услуги"
     name = "Консалтинг"
     weight = 33
+    url = "/"
 
 [[main]]
     name = "Сферы"
@@ -35,14 +38,17 @@
     parent = "Сферы"
     name = "Металлургия"
     weight = 35
+    url = "/"
 [[main]]
     parent = "Сферы"
     name = "Строительство"
     weight = 36
+    url = "/"
 [[main]]
     parent = "Сферы"
     name = "Бытовая техника"
     weight = 37
+    url = "/"
 
 [[main]]
     name = "Компания"
@@ -52,3 +58,4 @@
 [[main]]
     name = "Контакты"
     weight = 39
+    url = "/"
