@@ -1,0 +1,39 @@
+[[main]]
+    name = "Услуги"
+    weight = 30
+[[main]]
+    parent = "Услуги"
+    name = "Таможенное оформление"
+    weight = 31
+[[main]]
+    parent = "Услуги"
+    name = "Складская логистика"
+    weight = 32
+[[main]]
+    parent = "Услуги"
+    name = "Консалтинг"
+    weight = 33
+
+[[main]]
+    name = "Сферы"
+    weight = 34
+[[main]]
+    parent = "Сферы"
+    name = "Металлургия"
+    weight = 35
+[[main]]
+    parent = "Сферы"
+    name = "Строительство"
+    weight = 36
+[[main]]
+    parent = "Сферы"
+    name = "Бытовая техника"
+    weight = 37
+
+[[main]]
+    name = "Компания"
+    weight = 38
+
+[[main]]
+    name = "Контакты"
+    weight = 39
