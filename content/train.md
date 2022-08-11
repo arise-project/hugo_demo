@@ -2,7 +2,6 @@
 title: "МІЖНАРОДНІ ЗАЛІЗНИЧНІ ПЕРЕВЕЗЕННЯ"
 description: "Sidebar on the right, content on the left."
 image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
 sidebar_right: sidebar1
 ---
 Залізничним сполученням зазвичай доставляють негабаритні вантажі, а також будматеріали, вугілля, ліс, метал, цемент, вапняк, нафтопродукти, зерно.

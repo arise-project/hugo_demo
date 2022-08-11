@@ -5,12 +5,12 @@
     parent = "Транспорт"
     name = "ЗАЛІЗНИЧНІ ПЕРЕВЕЗЕННЯ"
     weight = 28
-    url = "/_train"
+    url = "/train"
 [[main]]
     parent = "Транспорт"
     name = "АВТОМОБІЛЬНІ ПЕРЕВЕЗЕННЯ"
     weight = 29
-    url = "/_truck"
+    url = "/truck"
 
 [[main]]
     name = "Услуги"
@@ -53,7 +53,7 @@
 [[main]]
     name = "Компания"
     weight = 38
-    url="/_company/"
+    url="/company/"
 
 [[main]]
     name = "Контакты"
